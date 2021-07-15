@@ -1,4 +1,4 @@
-# Bot-
+# Bot
 AI bot to which you can ask every thing
 
 **I prefer to use Pycharm IDE**
